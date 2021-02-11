@@ -1,0 +1,14 @@
+To use the solver the inputs are 12 4 value comma seperated strings in the format 
+Color,Shape,Shade,Count (NO SPACES)
+
+The Codes for each are:
+Color: Red = R, Green = Green, P = Purple
+Shape: Diamond = D, Squiggle = S, Oval = O
+Shade: Solid = SO, Shaded = SH, Outline = O
+Count: One = O, Two = TW, Three = TH
+
+Examples:
+R,D,SH,TW: Two Shaded Red Diamonds
+P,S,O,O: One Outlined Purple Squiggle
+
+PS: you can use any code you want as long as you keep it consitent
