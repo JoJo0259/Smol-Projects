@@ -12,3 +12,8 @@ R,D,SH,TW: Two Shaded Red Diamonds
 P,S,O,O: One Outlined Purple Squiggle
 
 PS: you can use any code you want as long as you keep it consitent
+
+Update 2/19/21:
+The program now includes a previous answers function to see the answers form a prior game.
+To use simply open the program and complete the puzzle as normal. When you open the program again it will display the answers from your previous game.
+Other tips and warnings related to the save function have been added to the program.
